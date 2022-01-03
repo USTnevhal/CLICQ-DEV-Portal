@@ -1,4 +1,4 @@
-![This is an image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmma.prnewswire.com%2Fmedia%2F1457892%2FLexisNexis_Logo.jpg%3Fp%3Dfacebook&imgrefurl=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Flexisnexis-introduces-nexis-data-lab-301249547.html&tbnid=LU0APXcTmRDCcM&vet=12ahUKEwjJjdisjpb1AhXWALcAHRG5Ac8QMygAegUIARDJAQ..i&docid=Ut_y26MYglCATM&w=1966&h=1030&q=lexisnexis&ved=2ahUKEwjJjdisjpb1AhXWALcAHRG5Ac8QMygAegUIARDJAQ)
+![Headers](/screenshots/relx-logo-ress-kit.jpg?raw=true)
 # How to host Swagger API documentation with GitHub Pages
 [<img alt="The blog of Peter Evans: How to Host Swagger Documentation With Github Pages" title="View blog post" src="https://peterevans.dev/img/blog-published-badge.svg">](https://peterevans.dev/posts/how-to-host-swagger-docs-with-github-pages/)
 
